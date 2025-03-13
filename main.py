@@ -141,7 +141,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3 text-Black">NASWARI BRAND ON FIRE
+    <h1 class="mt-3 text-Black">NASWARI BRAND 
   </header> 
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
