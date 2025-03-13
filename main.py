@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Offline Server By Aarhan</title>
+  <title>Offline Server by zain</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -188,7 +188,7 @@ def send_message():
   </div>
 <div class="footer">
         <div class="footer-box">
-            <h3>🩷Owner Aarhan🩷
+            <h3>🩷Owner ZainBadsha🩷
            <h3>  
            <p>😈❤️ We Are Unbeatable😈❤️ </p>
         
